@@ -6,4 +6,4 @@
 适合的软件及版本：GeoScene Pro 6.1 或 ArcGIS Pro (暂未测试，适用版本未知)
 
 工具箱在软件内的截图如下所示：
-![工具箱截图](GA-Toolbox-for-ArcGISPro_Genetic-Algorithm/工具箱截图.jpg)
+![工具箱截图](工具箱截图.jpg)
