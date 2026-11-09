@@ -1,5 +1,5 @@
 # GA-Toolbox-for-ArcGISPro_Genetic-Algorithm
-> 2026年 易智瑞GIS开发竞赛 - 地理设计组 获奖作品 (部分)
+> 2026年 易智瑞GIS开发竞赛 - 地理设计组 **获奖**作品 (部分)
 
 一个运行在ArcGIS Pro内部Python环境的遗传算法工具箱，可用于最优路径规划。A genetic algorithm toolbox running within the Python environment of ArcGIS Pro, which can be used for optimal path planning.
 
